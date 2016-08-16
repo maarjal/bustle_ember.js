@@ -1,1 +1,26 @@
-{{yield}}
+<h1>New Article</h1>
+  <div>
+    <form>
+      <div class="form-group">
+        {{input value=author id="author" placeholder="Author"}}
+      </div>
+
+      <div class="form-group">
+        {{input value=title id="title" placeholder="Title"}}
+      </div>
+
+      <div class="form-group">
+        {{input value=date id="date" placeholder="Date"}}
+      </div>
+
+      <div class="form-group">
+        {{input value=body id="body" placeholder="Body"}}
+      </div>
+
+      <div class="form-group">
+        {{input value=image id="image" placeholder="Image URL"}}
+      </div>
+
+      <button {{action 'save' }}>Save</button>
+    </form>
+  </div>
