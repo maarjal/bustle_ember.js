@@ -1,9 +1,12 @@
   <div class="article">
+    {{#link-to 'article' article.id}}
     <img src={{article.image}}/>
     <h3>{{article.title}}</h3>
+    {{/link-to}}
     <hr>
     <div class="article-footer">
       <p>{{article.author}}</p>
       <p>{{article.date}}</p>
     </div>
   </div>
+<button {{action 'updateArticleForm'}}>Update</button>
