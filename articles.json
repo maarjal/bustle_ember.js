@@ -1,0 +1,32 @@
+{ "articles": [{
+    "author": "Maddy Foley",
+    "date": "17-4-2016",
+    "title": "How Olympic Athletes Deal with Stress",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Australian_Olympic_Team_Uniforms_for_Rio_2016.JPG",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  }, {
+    "author": "Nicole Pomarico",
+    "date": "17-4-2016",
+    "title": "Justin Bieber's Instagram Is Actually Gone",
+    "image": "https://lovelace-media.imgix.net/getty/510535266.jpg?w=1200&h=1200&fit=max&auto=format&q=70",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  }, {
+    "author": "Kelly Dougher",
+    "date": "17-4-2016",
+    "title": "10 Genius Overnight Beauty Hacks",
+    "image": "https://lovelace-media.imgix.net/uploads/607/07c0d750-215f-0134-7ab2-060e3e89e053.jpg?w=1200&h=1200&fit=max&auto=format&q=70",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  }, {
+    "author": "Lara Rutherford-Morrison",
+    "date": "17-4-2016",
+    "title": "Bachelorette Party Interrupts Live Rio Coverage",
+    "image": "https://lovelace-media.imgix.net/uploads/638/39070940-4544-0134-5e53-06caa2286297.png?w=1200&h=1200&fit=max&auto=format&q=70",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  }, {
+    "author": "Kaitlyn Wilde",
+    "date": "17-4-2016",
+    "title": "Why You Need to Stop Reusing Plastic Bottles ASAP",
+    "image": "https://lovelace-media.imgix.net/uploads/491/513a6c90-4556-0134-3e10-0ad17316e277.jpg?w=1200&h=1200&fit=max&auto=format&q=70",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }]
+}
